@@ -29,6 +29,7 @@
 - [regex101](http://www.regex101.com) - regular expressions
 
 # React
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem
 - [react](https://reactjs.org) - React
 - [mui](https://mui.com/core) - MUI
 - [reactjsexample](https://reactjsexample.com) - ReactJS examples
