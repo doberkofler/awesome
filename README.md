@@ -7,3 +7,6 @@
 
 # Node.js
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Curating the best Node.js modules and resources.
+
+# JavaScript
+- [JSDoc typings](https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks) - JSDoc typings: all the benefits of TypeScript, with none of the drawbacks.
