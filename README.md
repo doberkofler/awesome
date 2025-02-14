@@ -32,10 +32,22 @@
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem
 - [react](https://reactjs.org) - React
 - [mui](https://mui.com/core) - MUI
+- [marmelab](https://marmelab.com/react-admin) - The React Framework for B2B Apps
 - [reactjsexample](https://reactjsexample.com) - ReactJS examples
+
+# Web components
+- [awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources
+
+# Design
+- [whimsical](https://whimsical.com) - A tool for visual collaboration that helps teams create flowcharts, wireframes, mind maps, and other diagrams
 
 # AI
 - [chatgpt](https://chatgpt.com) - ChatGPT
 - [claude](https://claude.ai) - Claude
 - [gemini](https://gemini.google.com) - Gemini
 - [deepseek](https://chat.deepseek.com) - DeepSeek
+- [cursor](https://www.cursor.com) - The AI Code Editor
+
+# macOS
+- [raycast](https://www.raycast.com) - Your shortcut to everything
+
