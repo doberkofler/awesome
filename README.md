@@ -38,13 +38,16 @@
 # Web components
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources
 
+# Css
+- [lightningcss](https://lightningcss.dev) - An extremely fast CSS parser, transformer, bundler, and minifier
+
 # Design
 - [whimsical](https://whimsical.com) - A tool for visual collaboration that helps teams create flowcharts, wireframes, mind maps, and other diagrams
 
 # AI
 - [chatgpt](https://chatgpt.com) - ChatGPT
 - [claude](https://claude.ai) - Claude
-- [gemini](https://gemini.google.com) - Gemini
+- [aistudio](https://aistudio.google.com) - Google AI Studio
 - [deepseek](https://chat.deepseek.com) - DeepSeek
 - [cursor](https://www.cursor.com) - The AI Code Editor
 
