@@ -10,8 +10,10 @@
 
 # JavaScript
 - [JSDoc typings](https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks) - JSDoc typings: all the benefits of TypeScript, with none of the drawbacks
-- [mdn](https://reactjs.org) - Mozilla Developer Network
+- [mdn](https://reactjs.org](https://developer.mozilla.org/en/JavaScript/Reference) - Mozilla Developer Network
+- [react](https://reactjs.org) - React The library for web and native user interfaces
 - [react-typescript-cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) - React Cheatsheet
+- [reactjsexample](https://reactjsexample.com) - React.js Examples
 - [eslint](https://eslint.org) - ESlint
 - [eslint-rules](https://eslint.org/docs/latest/rules) - ESlint rules
 - [typescript-eslint](https://typescript-eslint.io) - TypeScript ESLint
