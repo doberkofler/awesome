@@ -38,6 +38,7 @@
 # Web components
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources
 - [webawesome](https://backers.webawesome.com) - Make something awesome with open-source web components
+- [mdxjs](https://mdxjs.com) - Markdown for the component era
 
 # Css
 - [lightningcss](https://lightningcss.dev) - An extremely fast CSS parser, transformer, bundler, and minifier
