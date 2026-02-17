@@ -5,6 +5,20 @@
 	<hr>
 </div>
 
+# AI
+
+## Engines
+- [chatgpt](https://chatgpt.com) - ChatGPT
+- [claude](https://claude.ai) - Claude
+- [aistudio](https://aistudio.google.com) - Google AI Studio
+- [deepseek](https://chat.deepseek.com) - DeepSeek
+- [cursor](https://www.cursor.com) - The AI Code Editor
+
+## Development
+- [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Configuration files with custom rules and behaviors
+- [cursor-rules](https://cursor.directory/rules) cursor.directory/rules
+- [cursor-rules-typescript](https://stevekinney.com/writing/cursor-rules-typescript) - Cursor Rules for TypeScript Engineers
+
 # Node.js
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Curating the best Node.js modules and resources
 
@@ -18,6 +32,10 @@
 - [eslint-rules](https://eslint.org/docs/latest/rules) - ESlint rules
 - [typescript-eslint](https://typescript-eslint.io) - TypeScript ESLint
 - [typescript-eslint-rules](https://typescript-eslint.io/rules) - TypeScript ESLint rules
+
+# Oracle PL/SQL
+- [plsqlcodingstandards](https://www.williamrobertson.net/documents/plsqlcodingstandards.html) - Coding Standards for SQL and PL/SQL
+
 
 # JavaScript Testing
 - [playwright](https://playwright.dev/docs/intro) - Playwright
@@ -47,13 +65,6 @@
 
 # Design
 - [whimsical](https://whimsical.com) - A tool for visual collaboration that helps teams create flowcharts, wireframes, mind maps, and other diagrams
-
-# AI
-- [chatgpt](https://chatgpt.com) - ChatGPT
-- [claude](https://claude.ai) - Claude
-- [aistudio](https://aistudio.google.com) - Google AI Studio
-- [deepseek](https://chat.deepseek.com) - DeepSeek
-- [cursor](https://www.cursor.com) - The AI Code Editor
 
 # macOS
 - [raycast](https://www.raycast.com) - Your shortcut to everything
