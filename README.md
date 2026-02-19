@@ -8,15 +8,18 @@
 # AI
 
 ## Engines
-- [chatgpt](https://chatgpt.com) - ChatGPT
 - [claude](https://claude.ai) - Claude
-- [aistudio](https://aistudio.google.com) - Google AI Studio
+- [chatgpt](https://chatgpt.com) - ChatGPT
+- [gemini](https://gemini.google.com) - Google
 - [deepseek](https://chat.deepseek.com) - DeepSeek
-- [cursor](https://www.cursor.com) - The AI Code Editor
 
 ## Development
+- [prompts.chat](https://prompts.chat/prompts) - Share, discover, and collect prompts from the community
+- [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - This repository contains a curated list of awesome prompts
+- [chatgpt-prompts](https://www.llmbundle.com/prompts) - ChatGPT Prompts Library
+- [ai-prompts-for-developers](https://www.flashprompt.app/blog/ai-prompts-for-developers) - AI Prompts for Developers
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Configuration files with custom rules and behaviors
-- [cursor-rules](https://cursor.directory/rules) cursor.directory/rules
+- [cursor-rules](https://cursor.directory/rules) Cursor directory rules
 - [cursor-rules-typescript](https://stevekinney.com/writing/cursor-rules-typescript) - Cursor Rules for TypeScript Engineers
 
 # Node.js
