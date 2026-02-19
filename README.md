@@ -7,7 +7,7 @@
 
 # AI
 
-- [awesome-ai-prompts]((https://github.com/doberkofler/awesome-ai-prompts) - Awesome AI Prompts
+- [awesome-ai-prompts](https://github.com/doberkofler/awesome-ai-prompts) - Awesome AI Prompts
 
 # Node.js
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Curating the best Node.js modules and resources
